@@ -1,1 +1,2 @@
 Hola Git, soy el archivo numero 2
+ahora estoy modificando el archivo
